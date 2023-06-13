@@ -105,3 +105,9 @@ a {
     color-scheme: dark;
   }
 }
+.greater-then-10 {
+  color: yellowgreen;
+}
+.smaller-than-10 {
+  color: blueviolet
+}
